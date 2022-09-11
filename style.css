@@ -89,29 +89,6 @@ a {
     border-style:solid
 }
 
-.nav {
-
-position:fixed;
-background-color:rgb(128, 187, 164);
-}
-
-
-.faq {
-    margin: bottom 20px;
-    margin: top 10px;
-}
-
-.zijkant {
-background-color: rgb(248, 248, 248);
-width: 230px;
-margin-right:95%;
-position: fixed;
-height: 1000px;
-
-}
-
-
-
 
 .eigenschappen {
 
@@ -155,5 +132,67 @@ height: 1000px;
     border-style:solid
 }
 
+.faq {
+    margin: bottom 20px;
+    margin: top 10px;
+}
 
+.nav {
+
+position:fixed;
+background-color:rgb(128, 187, 164);
+}
+
+
+.zijkant {
+background-color: rgb(248, 248, 248);
+width: 230px;
+margin-right:95%;
+position: fixed;
+height: 1000px;
+
+
+}
+
+.links-school {
+    color:rgb(128, 187, 164)
+    }
+    
+.tekst-zijkant {
+
+color:rgb(128, 187, 164)    
+}    
+
+
+.foto-home1 {
+
+width: 20%;
+height: 30%;
+margin-right: 30%;
+margin-left: 80%;
+margin-top: -20%;
+margin: bottom: -40%;
+}
+
+.foto-home2 {
+
+    width: 20%;
+    height: 30%;
+    margin-right: 20%;
+    margin-left: 70%;
+    margin-top: -40%;
+    margin: bottom: -40%;
+    }
+
+.foto-blog{
+
+    width: 20%;
+    height: 30%;
+    margin-right: 30%;
+    margin-left: 80%;
+    margin-top: -10%;
+    margin: bottom: -40%;   
+
+
+}
 
