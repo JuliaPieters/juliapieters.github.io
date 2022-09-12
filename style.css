@@ -1,5 +1,6 @@
 h1, h2, h3, p, h4, Tr, td, th, li  {
 color:white;
+text-align: center;
 }
 
 .hz { 
@@ -141,6 +142,7 @@ a {
 
 position:fixed;
 background-color:rgb(128, 187, 164);
+
 }
 
 
@@ -168,6 +170,8 @@ margin-right: 30%;
 margin-left: 80%;
 margin-top: -20%;
 margin: bottom: -40%;
+  justify-content: center;
+   border-radius: 10px;
 }
 
 .foto-home2 {
@@ -177,7 +181,9 @@ margin: bottom: -40%;
     margin-right: 20%;
     margin-left: 70%;
     margin-top: -40%;
-    margin: bottom: -40%;
+    margin: bottom -40%;
+    justify-content: center;
+    border-radius: 10px;
     }
 
 .foto-blog{
@@ -187,7 +193,8 @@ margin: bottom: -40%;
     margin-right: 30%;
     margin-left: 80%;
     margin-top: -10%;
-    margin: bottom: -40%;   
-
-
-}
+    margin: bottom -40%;  
+   justify-content: center;
+   border-radius: 10px;
+  
+   
