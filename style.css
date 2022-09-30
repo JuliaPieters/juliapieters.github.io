@@ -240,3 +240,32 @@ color: white;
     border-radius: 10px;
 
 }
+
+.fotoprofile {
+    width: 15%;
+    height: 50%;
+    margin-right: 30%;
+    margin-left: 80%;
+    margin-top: -15%;
+    margin-bottom: -40%;
+    justify-content: center;
+     border-radius: 10px;
+}
+
+.fotostudiekeuze {
+    width: 40%;
+    height: 50%;
+    margin-left: 30%;
+    justify-content: center;
+     border-radius: 10px;
+
+}
+
+.fotoswot {
+    width: 15%;
+    height: 50%;
+    margin-left: 45%;
+    justify-content: center;
+     border-radius: 10px;
+
+}
